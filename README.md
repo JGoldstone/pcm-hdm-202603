@@ -22,6 +22,8 @@ Before using a Jupyter notebook for the first time, in the top-right of the note
 
 ![Select Jupyter kernel](resources/images/00-01/00-01-select_jupyter_kernel.png)
 
+You also need to read the ["Before each session starts"](#before-each-session-starts) section below (near the very end).
+
 ## The longer intro
 
 Part of achieving the reproducibility required for production-grade color management is cleanly separating tool choice, tool configuration and environment setup.
