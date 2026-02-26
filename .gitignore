@@ -1,0 +1,4 @@
+notebooks/student-work/
+.venv/
+__pycache__/
+.DS_Store
