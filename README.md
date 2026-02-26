@@ -12,11 +12,15 @@ uv sync
 uv run python -c "import numpy, colour, plotly; print('Environment OK')"
 ```
 
-Using the VSCodoe command palette (cmd-sh-P on macOS, ctrl-sh-P on Windows):
+Using the VSCode command palette (cmd-sh-P on macOS, ctrl-sh-P on Windows):
 ```bash
 Select Python Interpreter
 ```
 and choose the interpreter located in .venv
+
+Before using a Jupyter notebook for the first time, in the top-right of the notebook window, click Select Kernel, and choose the interpreter inside .venv.
+
+![Select Jupyter kernel](resources/images/00-01-select_jupyter_kernel.png)
 
 ## The longer intro
 
@@ -120,7 +124,7 @@ If instead you get some message indicating `uv` isn't installed on your system, 
 
 #### `python`
 
-The Python used in this course employs type hints as much as possible, so that the VSCode IDE and embedded tools like Pylance can detect a wide variety of errors before runtime. These type hints may rely on constructs that were introduced in Python 3.12 (released). That Python release should be [!stable until fall 2028](../resources/images/00-01/00-01-20260226_python_release_schedule.png).
+The Python used in this course employs type hints as much as possible, so that the VSCode IDE and embedded tools like Pylance can detect a wide variety of errors before runtime. These type hints may rely on constructs that were introduced in Python 3.12 (released). That Python release should be stable until fall 2028.
 
 FOr this course you will use a version of Python in a virtual environment, which `uv` will set up for you.
 
