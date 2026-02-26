@@ -16,11 +16,11 @@ Using the VSCode command palette (cmd-sh-P on macOS, ctrl-sh-P on Windows):
 ```bash
 Select Python Interpreter
 ```
-and choose the interpreter located in .venv
+and choose the interpreter located in `.venv`
 
-Before using a Jupyter notebook for the first time, in the top-right of the notebook window, click Select Kernel, and choose the interpreter inside .venv.
+Before using a Jupyter notebook for the first time, in the top-right of the notebook window, click Select Kernel, and choose the interpreter inside `.venv`.
 
-![Select Jupyter kernel](resources/images/00-01-select_jupyter_kernel.png)
+![Select Jupyter kernel](resources/images/00-01/00-01-select_jupyter_kernel.png)
 
 ## The longer intro
 
