@@ -1,0 +1,1 @@
+Notebooks, as they are distributed, will appear here and should *immediately* be copied to the adjacent `student-work` directory.
