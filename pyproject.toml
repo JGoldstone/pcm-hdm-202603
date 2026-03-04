@@ -12,6 +12,7 @@ dependencies = [
   "jupyter",
   "numpy",
   "plotly",
+  "dash",
   "kaleido",
   "matplotlib",
   "scipy",
