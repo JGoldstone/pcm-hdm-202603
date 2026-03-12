@@ -1,0 +1,14 @@
+ipykernel
+jupyter
+numpy
+plotly
+dash
+kaleido
+matplotlib
+scipy
+colour-science[optional]
+colour-datasets
+
+[dev]
+nbstripout
+pre-commit

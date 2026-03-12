@@ -3,3 +3,6 @@ notebooks/student-work/*
 .venv/
 __pycache__/
 .DS_Store
+resources/images/08-03/Macbeth_Apple_log_2_correct_for_sRGB.01566811.tif
+resources/images/08-03/Macbeth_Apple_log_2_incorrect_for_sRGB.01566811.tif
+resources/images/08-03/Macbeth_Apple_log_correct_for_sRGB.01565941.tif

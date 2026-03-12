@@ -17,6 +17,7 @@ dependencies = [
   "matplotlib",
   "scipy",
   "colour-science[optional]",
+  "types-opencolorio"
 ]
 
 [project.optional-dependencies]

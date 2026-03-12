@@ -32,6 +32,7 @@ IMAGES_ROOT = RESOURCE_ROOT / "images"
 DATA_ROOT = RESOURCE_ROOT / "data"
 PAPERS_ROOT = RESOURCE_ROOT / "papers"
 CLIPS_ROOT = RESOURCE_ROOT / "clips"
+OCIO_ROOT = RESOURCE_ROOT / "ocio"
 
 __all__ = [
     "RESOURCE_ROOT",
@@ -39,4 +40,5 @@ __all__ = [
     "DATA_ROOT",
     "PAPERS_ROOT",
     "CLIPS_ROOT",
+    "OCIO_ROOT"
 ]

@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: pcm
+Version: 0.1.0
+Summary: Color management course materials
+Requires-Python: >=3.12
+Requires-Dist: ipykernel
+Requires-Dist: jupyter
+Requires-Dist: numpy
+Requires-Dist: plotly
+Requires-Dist: dash
+Requires-Dist: kaleido
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: colour-science[optional]
+Requires-Dist: colour-datasets
+Provides-Extra: dev
+Requires-Dist: nbstripout; extra == "dev"
+Requires-Dist: pre-commit; extra == "dev"
